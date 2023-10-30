@@ -50,7 +50,7 @@ include('includes/header.php');
                                 <i class="material-icons opacity-10">person</i>
                             </div>
                             <div class="text-end pt-1">
-                                <p class="text-sm mb-0 text-capitalize"> Registered Users Today</p>
+                                <p class="text-sm mb-0 text-capitalize"> Registered Users tommorow</p>
                                 <h4 class="mb-0">
                                     <?php
                                         $todayUsers = todayUsers();
